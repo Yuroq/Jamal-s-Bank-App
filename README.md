@@ -1,5 +1,6 @@
 # Jamal-s-Bank-App
 Accounts info: 
+Username, Password
 <p>JK : 1111</P>
 <p>JB : 2222</P>
 <p>JC : 3333</P></P>
